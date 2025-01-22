@@ -19,5 +19,7 @@ Building Markov Model for Stocks after applying Clustering to Time Series data i
 
 Python libraries used: `pandas`, `yfinance`, `sklearn`, `matplotlib`, `seaborn`
 
+<br/>
+
 ### 2. Building Markov Model to create a transition matrix
 #### [View Model](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel2-Building_MarkovModel.ipynb)
