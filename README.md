@@ -14,7 +14,18 @@ Building Markov Model for Stocks after applying Clustering to Time Series data i
 8. Analyzing clusters
 9. Analyzing each cluster
 
-<img src="sc/TJ2.JPG" alt="Description" width="800">
+<br/>
+
+**Finding Optimal k with elbow method**
+
+<img src="sc/elbow.JPG" alt="Description" width="500">
+<br/>
+
+**Pairwise Feature Relationships by Cluster**
+
+<img src="sc/pairwise.JPG" alt="Description" width="500">
+
+<br/>
 
 #### [View Clustering](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel1_Clustering.ipynb)
 <br/>
@@ -25,11 +36,16 @@ Python libraries used: `pandas`, `yfinance`, `sklearn`, `matplotlib`, `seaborn`
 
 ## 2. Building Markov Model to create a Transition matrix
 1. Get previous state
-2. Create Transition State
-3. Grouping by Transition state and Counting occurrences
+2. Create Transition State by combining previous and present states
+3. Grouping by Transition state and Counting their occurrences
 4. Separate the transition state
 5. Create Markov transition matrix 
-6. Convert to row-wise percentages
+6. Convert to row-wise percentages (%)
+
+<br/>
+<img src="sc/trmat.JPG" alt="Description" width="300">
+
+<br/>
 
 
 #### [View Model](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel2-Building_MarkovModel.ipynb)
