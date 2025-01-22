@@ -14,6 +14,7 @@ Building Markov Model for Stocks after applying Clustering to Time Series data i
 8. Analyzing clusters
 9. Analyzing each cluster
 
+<img src="sc/TJ2.JPG" alt="Description" width="800">
 
 #### [View Clustering](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel1_Clustering.ipynb)
 <br/>
