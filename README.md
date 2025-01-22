@@ -3,7 +3,7 @@ Building Markov Model for Stocks after applying Clustering to Time Series data i
 
 <br/>
 
-### 1. Applying k-means clustering to identify market states
+## 1. Applying k-means clustering to identify market states
 1. Data Preparation
 2. Feature Preparation
 3. **Check for Multicollinearity**
@@ -22,7 +22,7 @@ Python libraries used: `pandas`, `yfinance`, `sklearn`, `matplotlib`, `seaborn`
 
 <br/>
 
-### 2. Building Markov Model to create a Transition matrix
+## 2. Building Markov Model to create a Transition matrix
 1. Get previous state
 2. Create Transition State
 3. Grouping by Transition state and Counting occurrences
@@ -32,3 +32,6 @@ Python libraries used: `pandas`, `yfinance`, `sklearn`, `matplotlib`, `seaborn`
 
 
 #### [View Model](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel2-Building_MarkovModel.ipynb)
+<br/>
+
+Python libraries used: `pandas`
