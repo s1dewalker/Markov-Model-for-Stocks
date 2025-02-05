@@ -48,7 +48,7 @@ Python libraries used: `pandas`, `yfinance`, `sklearn`, `matplotlib`, `seaborn`
 <br/>
 
 
-#### [View Model](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel2-Building_MarkovModel.ipynb)
+#### [View Markov Model](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel2-Building_MarkovModel.ipynb)
 <br/>
 
 Python libraries used: `pandas`
