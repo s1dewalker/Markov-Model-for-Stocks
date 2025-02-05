@@ -27,7 +27,7 @@ Building Markov Model for Stocks after applying Clustering to Time Series data i
 
 <br/>
 
-#### [View Clustering](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel1_Clustering.ipynb)
+#### [View Clustering](https://github.com/s1dewalker/Markov-Model-for-Stocks/blob/main/py_files/MarkovModel1_Clustering2.ipynb)
 <br/>
 
 Python libraries used: `pandas`, `yfinance`, `sklearn`, `matplotlib`, `seaborn`
