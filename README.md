@@ -1,5 +1,5 @@
 # Markov Model for Stocks
-<img src="sc/mm.jpg" alt="Description" width="1000">
+<img src="sc/mm2.jpg" alt="Description" width="1000">
 <br/>
 
 
