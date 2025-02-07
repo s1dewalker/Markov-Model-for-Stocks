@@ -1,4 +1,8 @@
 # Markov Model for Stocks
+
+<img src="sc/mm.jpg" alt="Description" width="1000">
+<br/>
+
 Building Markov Model for Stocks after applying Clustering to Time Series data in Python
 
 <br/>
